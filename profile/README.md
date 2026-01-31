@@ -25,7 +25,7 @@
 
 ---
 
-**`deposit`** → **`earn`** → **`spend`** → **`repeat`** ♻️
+**`deposit`** → **`spend`** → **`earn`** → **`repeat`** ♻️
 
 </div>
 
